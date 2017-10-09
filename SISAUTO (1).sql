@@ -1,5 +1,5 @@
 -- phpMyAdmin SQL Dump
--- version 4.6.6
+-- version 4.6.6 vendas
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost
