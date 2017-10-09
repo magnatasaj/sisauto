@@ -1,5 +1,5 @@
 -- phpMyAdmin SQL Dump
--- vesrsion 4.6.6
+-- vesrsion 4.6.6 note book
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost
